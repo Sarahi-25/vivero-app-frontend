@@ -29,5 +29,5 @@ type: 'image/png'
 ]
 }
 })
-  ],base:'/'
+  ],base:'/MADRA'
 })
